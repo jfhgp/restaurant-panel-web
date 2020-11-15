@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+html, body{
+  overflow-x: hidden;
+}
+
+main {
+  align-items: center;
+  min-height: 100vh;
+}
+
+input {
+  min-width: 250px;
+}
+
+centered-half {
+  width: "50%";
+  background-color: "red";
+  align-self: "center";
+  align-items: "center";
+  justify-content: "center";
+  display: "flex";
+  margin-bottom: 10px;
+}
+
+p-inputgroup .login {
+  margin-bottom: 20px;
+}
+/* .css-2b097c-container{
+z-index:999;
+} */

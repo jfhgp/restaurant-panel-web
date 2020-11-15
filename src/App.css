@@ -1,0 +1,11 @@
+/* Place your extensions here to make migration to a new release easier. */
+
+div > h1 {
+    font-size: 16px;
+}
+ .dash >h1{
+    font-size: 40px;
+}
+.result {
+    font-size: 35px;
+}
